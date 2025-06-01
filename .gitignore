@@ -195,6 +195,7 @@ cython_debug/
 
 # Knowledge Base documents
 documents/
+models/
 
 # chromadb
 db/
