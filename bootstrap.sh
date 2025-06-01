@@ -1,6 +1,10 @@
 #!/usr/bin/env sh
 
-# Create documents folder and create a README.txt file inside it.
+echo "Creating documents folder if it does not exist."
 mkdir -p documents
-echo "Put your files inside this folder. \
-It will be used to answer your queries." > ./documents/README.txt
+
+echo "Creating models folder if it does not exist."
+mkdir -p models
+
+echo "Creating .env file from .env.example"
+cp .env.example .env
