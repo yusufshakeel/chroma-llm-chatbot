@@ -26,6 +26,12 @@ sh bootstrap.sh
 source .env
 ```
 
+* Install dependencies
+
+```shell
+pip install -r requirements.txt
+```
+
 ## `models` folder
 
 Put models inside this folder.
