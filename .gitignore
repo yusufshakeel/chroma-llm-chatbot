@@ -195,3 +195,6 @@ cython_debug/
 
 # Knowledge Base documents
 documents/
+
+# chromadb
+db/
