@@ -36,6 +36,7 @@ Python bindings like llama-cpp-python.
 Recommended Model:
 - Phi-2 (2.7B) – very capable and CPU-friendly.
 - TinyLlama (1.1B) – super lightweight.
+- Mistral (7B)
 
 ## `documents` folder
 
@@ -48,4 +49,12 @@ to create/update embeddings in the chroma vector database.
 
 ```shell
 python3 src/embedding.py
+```
+
+## Query
+
+Run the following command for question and answer assistance.
+
+```shell
+python3 src/main.py
 ```
