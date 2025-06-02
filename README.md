@@ -1,5 +1,7 @@
 # chroma-llm-chatbot
 
+![output.png](assets/output.png)
+
 ## Getting Started
 
 * Create virtual environment
@@ -48,14 +50,23 @@ Recommended Model:
 
 Put your files inside this folder. It will be used to answer your queries.
 
-## Create/Update embeddings
+## `example-docs` folder
 
-After adding/updating files in `documents` folder, run the following command
-to create/update embeddings in the chroma vector database.
+This folder contains some sample files. You can copy them into
+the `documents` folder to get started.
+
+## Create/Update/Delete embeddings
+
+After adding/updating/removing files in the `documents` folder, run the 
+following command to create/update embeddings in the chroma vector database.
 
 ```shell
 python3 src/embedding.py
 ```
+
+You may want to delete the older database inside the `db` folder when making
+changes to the chunk size, chuck overlap and adding/removing files from 
+the `documents` folder.
 
 ## Query
 
