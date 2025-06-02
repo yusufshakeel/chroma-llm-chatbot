@@ -44,7 +44,7 @@ Python bindings like llama-cpp-python.
 Recommended Model:
 - Phi-2 (2.7B) – very capable and CPU-friendly.
 - TinyLlama (1.1B) – super lightweight.
-- Mistral (7B)
+- Mistral (7B) - better
 
 ## `documents` folder
 
