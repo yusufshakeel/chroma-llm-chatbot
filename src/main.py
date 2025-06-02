@@ -1,11 +1,13 @@
 from llama_cpp import Llama
-from env_config import MODEL_PATH, NUMBER_OF_MOST_SIMILAR_DOCUMENTS_TO_RETRIEVE, CONTEXT_SIZE, NUMBER_OF_THREADS, MAX_TOKENS
+from env_config import MODEL_PATH, NUMBER_OF_MOST_SIMILAR_DOCUMENTS_TO_RETRIEVE, CONTEXT_SIZE, NUMBER_OF_THREADS, \
+    MAX_TOKENS, VERBOSE_OUTPUT_ENABLED
 from vector_store import collection, emb_fn
 
 llm = Llama(
     model_path=MODEL_PATH,
     n_ctx=CONTEXT_SIZE,
-    n_threads=NUMBER_OF_THREADS
+    n_threads=NUMBER_OF_THREADS,
+    verbose=VERBOSE_OUTPUT_ENABLED
 )
 
 
