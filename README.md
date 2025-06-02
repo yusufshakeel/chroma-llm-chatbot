@@ -5,7 +5,7 @@
 * Create virtual environment
 
 ```shell
-python3 -m venv .venv
+python3.11 -m venv .venv
 ```
 
 * Activate virtual environment
