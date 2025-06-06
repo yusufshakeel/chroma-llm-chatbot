@@ -194,8 +194,8 @@ cython_debug/
 .cursorindexingignore
 
 # Knowledge Base documents
-documents/
-models/
+/documents
+/models
 
 # chromadb
 db/
