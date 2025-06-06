@@ -1,0 +1,128 @@
+# Our Story
+
+**Really real real company wink wink**
+
+## Early Days (2003 – 2005)
+
+In early 2003, three friends—Amit, Jason, and Priya—sat together at a cramped café in Chicago. They had no major business plan, no investor interest, and very little money in their pockets. What they did have was a shared frustration. All of them had experienced how hard it was to find simple software tools that "just worked" without unnecessary complexity.
+
+Jason was a freelance designer who hated bloated tools. Amit was a systems engineer who kept building little utilities for himself and friends. Priya had a background in customer support and knew firsthand how much users struggled with clunky products.
+
+One day, while discussing yet another bad software experience, Priya joked, “Why don’t we just make our own tool? Like a really real real tool that actually solves problems?”
+
+Amit replied, “Yeah, a real one. Not like those fake feature-packed apps.”
+
+Jason laughed and added, “Let’s call it… ‘Really real real company wink wink.’”
+
+It was meant as a joke. But somehow, the name stuck.
+
+So, the three friends decided to give it a shot. With \$2,000 between them, they registered a domain, rented a shared server, and began work on their first project: a simple file-sharing tool that let people send large files without logging in or creating an account.
+
+They named it “JustSendIt.” It was fast, clean, and worked in a few clicks. No ads. No upsells.
+
+They shared it on a few forums and tech blogs. To their surprise, it gained traction.
+
+## First Big Break (2006 – 2009)
+
+By late 2006, “JustSendIt” was doing over 50,000 file transfers per week. Their little tool was being used by teachers, small businesses, event planners, and even a few law firms. They hadn’t spent a single dollar on marketing.
+
+The team started receiving emails. People wanted features—more storage, password protection, upload history. So they added a premium version for \$5/month and kept the basic one free.
+
+Revenue grew. By mid-2007, they were making enough to rent a small office and go full-time.
+
+They hired their first employee, Dana, who handled support tickets and made sure users were heard. She also kept a whiteboard with weird user feature requests, many of which turned into real updates.
+
+In 2008, they launched two more tools—one for basic project collaboration and another for time tracking. They didn’t try to compete with the big names. Instead, they focused on simplicity. They asked users what annoyed them about existing tools and built alternatives that stripped away the mess.
+
+Slowly but surely, a pattern emerged: they made simple tools that solved small but real problems.
+
+## Building a Real Team (2010 – 2013)
+
+The company wasn’t flashy. There were no launch parties or big headlines. But their user base was growing steadily.
+
+In 2010, they rebranded their tools under a single platform called “RealSuite.” It combined file sharing, task tracking, team messaging, and simple invoicing.
+
+They hired engineers, designers, and writers. They avoided corporate speak. Their About page said: “We make useful things for regular people.”
+
+Internally, they focused on being flexible. Remote work was allowed before it was trendy. They kept meetings short. Feedback loops were tight. Every new employee had a “build something small” week to fix or improve one small thing they noticed.
+
+By 2012, Really real real company wink wink had a small but loyal fanbase. Not millions of users, but tens of thousands who paid because the tools worked, the support was kind, and nothing felt bloated.
+
+The company reached \$2 million in annual recurring revenue. Still bootstrapped. Still independent.
+
+## Saying No to Investors (2014 – 2016)
+
+As their growth continued, investors came knocking. Some saw potential in RealSuite. Others were just curious about a company with such an odd name doing decent numbers with zero funding.
+
+They considered the offers. Some were generous.
+
+But in the end, they decided not to take outside money. The team liked moving at their own pace. They didn’t want to be forced into growth targets or rushed decisions.
+
+In an internal memo, Amit wrote:
+“We’re not against raising money. We’re just against doing it for the wrong reasons. Let’s stay real for a bit longer.”
+
+Instead, they used profits to grow slowly. They expanded their support team and added more security features. They introduced usage-based pricing so people paid only for what they used.
+
+They even launched a new tool called “RealForms” for creating custom online forms without coding. Teachers, HR teams, and small clinics loved it.
+
+## Hitting a Rough Patch (2017 – 2018)
+
+In 2017, the company faced its first real challenge.
+
+A major competitor launched a suite of tools similar to RealSuite, backed by a huge marketing budget. Some users switched over. Others questioned whether Really real real company wink wink could keep up.
+
+Internally, burnout started to creep in. Some early team members left. A few product updates were delayed. One new tool launched half-baked and received mixed reviews.
+
+Rather than panic, the founders decided to pause.
+
+They froze hiring. They sent a long, honest blog post titled “We’re taking a breather” to all customers. It explained what was happening and what they planned to do next.
+
+Then, for six months, they focused on fixing bugs, improving speed, and rebuilding internal morale. They called it “The Repair Phase.”
+
+The result? By mid-2018, users noticed the difference. Tools were smoother. Response times were faster. A few even sent thank-you notes.
+
+## Quiet Comeback (2019 – 2021)
+
+2019 was the company’s quiet comeback year.
+
+They didn’t launch any flashy features. They focused on improving the existing ones. They made onboarding smoother. They introduced integrations with other services like Google Drive and Slack. They built a public API.
+
+They also ran a month-long experiment where they answered every single support email in under 2 hours. It became a habit.
+
+In 2020, when the pandemic hit, usage spiked. Teams suddenly needed remote tools. RealSuite’s simple interface and fair pricing made it attractive for schools, nonprofits, and community organizations.
+
+The company offered free upgrades to frontline groups and froze pricing for existing users.
+
+The gesture paid off—not in short-term profit, but in long-term loyalty.
+
+## A New Chapter (2022 – Present)
+
+In 2022, they launched a redesign of their platform with a cleaner look and better mobile support. They also introduced “RealSpaces,” a shared virtual workspace that combines chat, tasks, docs, and files—all in one view.
+
+Their customer base grew, but they still kept things simple.
+
+They had a “No Buzzword” policy for marketing. Their features were explained in plain language. Their pricing page had no tricks or hidden costs.
+
+They also launched a small podcast, “Staying Real,” where team members interviewed customers and discussed the challenges of running honest businesses in a noisy world.
+
+In 2023, they passed \$10 million in annual revenue and celebrated by giving every employee a paid month off—no meetings, no emails, just rest.
+
+Now, in 2025, Really real real company wink wink has a team of 54 people spread across 9 countries. Their products are used by over 120,000 customers—from freelance translators to mid-sized law firms.
+
+They’ve stayed independent. They’ve kept their name (despite the jokes). And they’re still building tools that solve real problems.
+
+## Our Values
+
+Over the years, a few simple principles have guided us:
+
+* **Start simple. Stay simple.** We build tools that do a few things really well.
+* **Respect people’s time.** That means fast software, clear pricing, and no sales tricks.
+* **Stay independent.** We’re not chasing unicorn status. We’re building something lasting.
+* **Support is not a department.** Everyone, from engineers to founders, talks to customers.
+* **Make it better, quietly.** We prefer improvements over announcements.
+
+## Final Thoughts
+
+Really real real company wink wink started as a joke between friends. But the heart behind it was serious. They wanted to build something honest—something useful.
+
+And 20+ years later, that goal hasn’t changed.
