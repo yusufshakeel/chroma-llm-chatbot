@@ -50,7 +50,7 @@ Recommended Model:
 
 Put your files inside this folder. It will be used to answer your queries.
 
-## `example-docs` folder
+## `example/documents` folder
 
 This folder contains some sample files. You can copy them into
 the `documents` folder to get started.
