@@ -30,15 +30,15 @@ def main():
             prompt = f"You are a helpful assistant. \
             Use the following context to answer the user's \
             question accurately and concisely. \
-            The contexts and user's question are delimited by #####. \
-            \nContext:\n\
+            The contexts and user's question are delimited by #####.\n\n \
+            Context:\n\
             #####\n\
             {context}\n\
+            #####\n\n\
+            Question:\n\
             #####\n\
-            \nQuestion:\n\
-            #####\n\
-            {query}\n\
-            #####\n\
+            {query}\n\n\
+            #####\n\n\
             Answer: "
 
             response = llm(prompt, max_tokens=MAX_TOKENS)
@@ -46,7 +46,8 @@ def main():
             print("\n\n")
     except KeyboardInterrupt:
         print("\n\nExiting... Bye!")
-
+    except Exception as e:
+        print(f"\n\nSomething went wrong... {e}\n\nBye!")
 
 if __name__ == "__main__":
     main()
